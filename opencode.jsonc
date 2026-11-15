@@ -16,6 +16,7 @@
       "sort *": "allow",
       "file *": "allow",
       "cat *": "allow",
+      "notify-send *": "allow",
       "head *": "allow",
       "git diff *": "allow",
       "git status *": "allow",
